@@ -1,1 +1,2 @@
-# Sign_Language_Identification
+# Sign Language Identification
+*Blog post and README coming soon!*
